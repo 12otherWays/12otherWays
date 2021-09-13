@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other content creators
-- ⚡ Fun fact: I love to code and play keyboard
+- ⚡ Fun fact: I love to code and play keyboard(just learning 😁)
 - 💬 Ask me about ... Anything
 <!-- - 📫 Reach me at  -->
 - 😄 Pronouns: ... He/Him
