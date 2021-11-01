@@ -28,4 +28,4 @@
 
 
 
-(https://github-readme-stats.vercel.app/api?username=12otherWays)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=12otherWays)
