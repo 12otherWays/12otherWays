@@ -27,18 +27,3 @@
 
 <br />
 <br />
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Reetu raj's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=12otherWays&show_icons=true&theme=buefy" />
-
-</details>
-<br />
-<details>
-  <summary>:zap: Most Used Languages</summary>
-
-<img align="left" alt="Reetu raj's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=12otherWays" />
-
-</details>
-
