@@ -2,7 +2,7 @@
 
 ## I'm a Student!!
 
-- 🌱 I’m currently learning everything
+- 🌱 I’m currently learning Web Development.
 - 👯 I’m looking to collaborate with other content creators
 - ⚡ Fun fact: I love to code and play keyboard(just learning 😁)
 - 💬 Ask me about ... Anything
