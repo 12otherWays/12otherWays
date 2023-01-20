@@ -7,6 +7,7 @@
 - ⚡ Fun fact: I love to code and play keyboard(just learning 😁)
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: ... He/Him
+-  Email? [Pretty much everyone](reeturaj542@gmail.com)!
 
 
 <br />
