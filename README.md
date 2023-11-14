@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning Web Development.
 - 👯 I’m looking to collaborate with other content creators
-- ⚡ Fun fact: I love to code and play keyboard(just learning 😁)
+- ⚡ Fun fact: I love to code.
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: ... He/Him
 - 📭 [Email](mailto:reeturaj542@gmail.com)
