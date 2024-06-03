@@ -2,11 +2,7 @@
 
 ## I'm a Student!!
 
-- 🌱 I’m currently learning Web Development.
-- 👯 I’m looking to collaborate with other content creators
-- ⚡ Fun fact: I love to code.
-- 💬 Ask me about ... Anything
-- 😄 Pronouns: ... He/Him
+- 🌱 I’m currently learning to develop stuff besides software.
 - 📭 [Email](mailto:reeturaj542@gmail.com)
 
 
